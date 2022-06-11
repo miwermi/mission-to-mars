@@ -1,3 +1,4 @@
+# Since we are using render_template, we need a templates folder with an index in it.
 from flask import Flask, render_template, redirect, url_for
 from flask_pymongo import PyMongo
 import scraping
