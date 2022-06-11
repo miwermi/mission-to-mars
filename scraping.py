@@ -12,9 +12,9 @@ def scrape_all():
     browser = Browser('chrome', **executable_path, headless=True)
 
     news_title, news_paragraph = mars_news(browser)
-    hemisphere_results = hemispheres(browser)
+    hemisphere_results = hemispheres(browser) #<< moving my latest dictionary around 
 
-    # Run all scraping functions and store results in dictionary
+    # Run all scraping functions and store results in a new big combined dictionary!!
     data = {
         "news_title": news_title,
         "news_paragraph": news_paragraph,
