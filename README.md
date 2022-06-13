@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Junior data Scientist Robin does free lance astronomy work and hopes to work for NASA someday.  She spends a lot of time reading web articles and is currently fascinated with Mars.  For this project, I've helped Robin code a web scraper that puts together Mars data from several different sites:  
+Junior data Scientist Robin does freelance astronomy work and hopes to work for NASA someday.  She spends a lot of time reading web articles and is currently fascinated with Mars.  For this project, I've helped Robin code a web scraper that puts together Mars data from several different sites:  
 
 - MARS Planet Science (https://redplanetscience.com)
 - California Institute of Technology's Jet Propulsion Lab (https://spaceimages-mars.com)
@@ -35,4 +35,5 @@ Since the page is only local at this point, I can't share a link to it, but I've
 <img src="https://github.com/miwermi/mission-to-mars/blob/main/assets/mission-to-mars_index.html.jpg" align="right" alt ="graphic: Mission to Mars Site Index">
 
 
-Figure 3: Our MISSION TO MARS page
+
+Figure 3: MISSION TO MARS page
