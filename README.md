@@ -33,3 +33,6 @@ Figure 2: Web Scraping with Splinter, Flask, Mongo and Python
 Since the page is only local at this point, I can't share a link to it, but I've included a preview below.  I added some custom CSS in addition to the standard Bootstrap layout and swiped a google font, Secular One, and a Mars background image from the Mars NASA site (https://mars.nasa.gov/system/news_items/main_images/8944_1-PIA24546-1280.jpg) to jazz it all up.  Each time a user clicks the button... the sites are scraped again and the page reloads with new info.  I hope Robin likes it!
 
 <img src="https://github.com/miwermi/mission-to-mars/blob/main/assets/mission-to-mars_index.html.jpg" align="right" alt ="graphic: Mission to Mars Site Index">
+
+
+Figure 3: Our MISSION TO MARS page
